@@ -1,0 +1,39 @@
+h1{
+    font-size: 28px;
+    text-align: center;}
+
+#position {
+    font-size: 18px;
+    text-align: center;}
+
+h1,#position{text-shadow: 3px 2px 3px;}
+
+.summary{font-size: 16px;}
+
+
+h2{
+    color:#2F5A78;
+    font-size: 20px;}
+
+
+body{
+    font-family:Arial, Helvetica, sans-serif;}
+
+
+#position{
+    font-weight: bold;
+    font-six;}
+    
+
+
+h1{
+    font-size: 28px;
+    text-transform: uppercase;
+}
+
+.summary{
+    font-size: 16px;
+    line-height: 20px;
+}
+
+header,#copyright{text-align: centrer;}
